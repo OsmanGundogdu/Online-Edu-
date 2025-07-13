@@ -1,0 +1,16 @@
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\bin\Debug\net8.0\OnlineEdu.DTO.deps.json
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\bin\Debug\net8.0\OnlineEdu.DTO.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\bin\Debug\net8.0\OnlineEdu.DTO.pdb
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\bin\Debug\net8.0\OnlineEdu.Entity.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\bin\Debug\net8.0\OnlineEdu.Entity.pdb
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.csproj.AssemblyReference.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.AssemblyInfoInputs.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.AssemblyInfo.cs
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.csproj.CoreCompileInputs.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.sourcelink.json
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEd.9E38B2D2.Up2Date
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\refint\OnlineEdu.DTO.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.pdb
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\ref\OnlineEdu.DTO.dll

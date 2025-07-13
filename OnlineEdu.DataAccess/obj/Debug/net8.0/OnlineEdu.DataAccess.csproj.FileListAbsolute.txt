@@ -1,0 +1,16 @@
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.DataAccess.deps.json
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.DataAccess.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.DataAccess.pdb
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.Entity.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\bin\Debug\net8.0\OnlineEdu.Entity.pdb
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.AssemblyInfoInputs.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.AssemblyInfo.cs
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.sourcelink.json
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEd.EAC0992C.Up2Date
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\refint\OnlineEdu.DataAccess.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.pdb
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\ref\OnlineEdu.DataAccess.dll

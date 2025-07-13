@@ -1,0 +1,15 @@
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.deps.json
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.runtimeconfig.json
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\bin\Debug\net8.0\OnlineEdu.Entity.pdb
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.csproj.AssemblyReference.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.AssemblyInfoInputs.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.AssemblyInfo.cs
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.csproj.CoreCompileInputs.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.sourcelink.json
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\refint\OnlineEdu.Entity.dll
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.pdb
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\OnlineEdu.Entity.genruntimeconfig.cache
+C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.Entity\obj\Debug\net8.0\ref\OnlineEdu.Entity.dll
