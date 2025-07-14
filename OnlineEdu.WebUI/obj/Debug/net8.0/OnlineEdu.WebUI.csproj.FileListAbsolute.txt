@@ -22,7 +22,6 @@ C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\Onli
 C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\OnlineEdu.WebUI.dll
 C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\refint\OnlineEdu.WebUI.dll
 C:\Users\osman1\Desktop\Programlama\ProgramlamaProjelerim\Saglam Projelerim\OnlineEdu\OnlineEdu.WebUI\obj\Debug\net8.0\OnlineEdu.WebUI.pdb
