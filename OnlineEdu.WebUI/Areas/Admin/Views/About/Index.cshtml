@@ -1,6 +1,45 @@
-﻿
+﻿@model List<ResultAboutDto>
 @{
     ViewData["Title"] = "About Page";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
+
+@{
+    int count = 0;
+}
+
+<table class="table table-hover">
+    <tr>
+        <th>#</th>
+        <th>Image1</th>
+        <th>Image2</th>
+        <th>Description</th>
+        <th>Item1</th>
+        <th>Item2</th>
+        <th>Item3</th>
+        <th>Item4</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <th>@count</th>
+            <td><img src="@item.ImageUrl1" style="height:75px;width:75px" /> </td>
+            <td><img src="@item.ImageUrl2" style="height:75px;width:75px" /> </td>
+            <td>@item.Description</td>
+            <td>@item.Item1</td>
+            <td>@item.Item2</td>
+            <td>@item.Item3</td>
+            <td>@item.Item4</td>
+            <td>
+                <a asp-action="UpdateAbout" asp-controller="About" asp-area="Admin" class="btn btn-outline-danger">Delete</a>
+                <a asp-action="UpdateAbout" asp-controller="About" asp-area="Admin" class="btn btn-outline-info">Update</a>
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<a asp-action="CreateAbout" asp-controller="About" asp-area="Admin" class="btn btn-outline-primary">Add a new one</a>
+
 
