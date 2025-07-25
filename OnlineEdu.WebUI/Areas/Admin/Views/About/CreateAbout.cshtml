@@ -1,0 +1,31 @@
+﻿@model CreateAboutDto
+@{
+    ViewData["Title"] = "Creating a New About Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form method="post">
+    <label>Description</label>
+    <textarea asp-for="Description" class="form-control" rows="5"></textarea>
+    <br />
+    <label>Image Url 1</label>
+    <input type="text" asp-for="ImageUrl1" class="form-control" />
+    <br />
+    <label>Image Url 2</label>
+    <input type="text" asp-for="ImageUrl2" class="form-control" />
+    <br />
+    <label>Item 1</label>
+    <input type="text" asp-for="Item1" class="form-control" />
+    <br />
+    <label>Item 2</label>
+    <input type="text" asp-for="Item2" class="form-control" />
+    <br />
+    <label>Item 3</label>
+    <input type="text" asp-for="Item3" class="form-control" />
+    <br />
+    <label>Item 4</label>
+    <input type="text" asp-for="Item4" class="form-control" />
+    <br />
+    <button class="btn btn-outline-primary">Confirm</button> 
+</form>
+

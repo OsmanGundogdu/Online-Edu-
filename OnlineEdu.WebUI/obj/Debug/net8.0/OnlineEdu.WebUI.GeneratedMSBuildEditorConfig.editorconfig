@@ -28,8 +28,16 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/osman1/Desktop/Programlama/ProgramlamaProjelerim/Saglam Projelerim/OnlineEdu/OnlineEdu.WebUI/Areas/Admin/Views/About/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcQ3JlYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/osman1/Desktop/Programlama/ProgramlamaProjelerim/Saglam Projelerim/OnlineEdu/OnlineEdu.WebUI/Areas/Admin/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/osman1/Desktop/Programlama/ProgramlamaProjelerim/Saglam Projelerim/OnlineEdu/OnlineEdu.WebUI/Areas/Admin/Views/About/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcVXBkYXRlQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/osman1/Desktop/Programlama/ProgramlamaProjelerim/Saglam Projelerim/OnlineEdu/OnlineEdu.WebUI/Areas/Admin/Views/_ViewImports.cshtml]
